@@ -3,7 +3,7 @@
 # Project Summary
 
 In this project, we'll provide practice JavaScript problems to help you better understand the fundamentals.
-
+I was here!
 ## Setup
 
 * `Fork` this repository.
